@@ -1,2 +1,2 @@
 /*
-  Strict-Transport-Security: max-age=0; includeSubDomains; preload
+  Access-Control-Allow-Origin: *
